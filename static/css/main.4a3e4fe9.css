@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}body{background-color:#000;color:#fff;font-family:Roboto,sans-serif;font-size:20px}.container{display:flex;flex-direction:column;margin:50px;padding:20px;row-gap:20px;width:400px}.container input{background-color:#000;border:2px solid #fff;color:#fff;font-size:20px;padding:10px}.keypad{display:flex;font-weight:bolder;justify-content:space-between}button{cursor:pointer;padding:18px}.message{color:green}.error{color:red}
+/*# sourceMappingURL=main.4a3e4fe9.css.map*/
